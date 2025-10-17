@@ -47,3 +47,5 @@ To get more information about differences between chains use `--verbose` flag. I
 * Result code `69` - Some of the nodes are unavailable of could not be reached by network.
 * Result code `70` - Internal error
 * Result code `130` - The program was terminated by user (Ctrl-C).
+
+<!-- Auto-update: 2025-10-17T09:22:43.859099 -->
